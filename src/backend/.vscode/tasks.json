@@ -4,7 +4,7 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Run backend",
+      "label": "Watch backend",
       "type": "shell",
       "command": "gow run .",
       "problemMatcher": []
